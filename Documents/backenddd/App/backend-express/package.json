@@ -1,0 +1,31 @@
+{
+  "name": "apimicroservice",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto con Node.js y Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "keywords": [
+    "MVC",
+    "Node.js",
+    "Express",
+    "API REST",
+    "Microservicios",
+    "JavaScript",
+    "Backend",
+    "Programación",
+    "Desarrollo web"
+  ],
+  "author": "nullv1x",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.5",
+    "multer": "^2.0.2",
+    "mysql2": "^3.16.3",
+    "nodemon": "^3.1.11"
+  }
+}
